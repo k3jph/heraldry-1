@@ -1,38 +1,25 @@
 ---
 title: Welcome
 ---
+Welcome to our journey through the fascinating world of heraldry, a course designed to unveil the mysteries and beauty of this ancient practice that has shaped identities, conveyed values, and told stories of lineage and valor across centuries. As we embark on this exploration, we invite you to immerse yourself in the rich tapestry of symbols, colors, and patterns that heraldry weaves, discovering its profound impact on history, culture, and art.
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+[image: An ornate heraldic shield]
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+From the battlefields of medieval Europe to the grand halls of noble families and the intricate designs of public architecture, heraldry has left an indelible mark on our world. This course will guide you through the origins of heraldry, its evolution through pivotal historical moments such as the Crusades and the Battle of Hastings, and its role in shaping medieval society's social and legal structures.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+[link: Introduction to Heraldry]
 
-### Getting Started
+Through engaging lectures, interactive discussions, and hands-on activities, you'll learn to decode the language of heraldry, understanding the significance behind its symbols and mastering the art of blazoning. You'll discover how heraldry functioned as a form of visual communication, carrying messages of allegiance, honor, and identity that were understood across diverse cultures and languages.
 
-Getting a message sent is quick and easy with ChatApp:
+[link: How to Blazon a Coat of Arms]
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+As we delve into the stories that heraldic symbols tell, you'll also have the opportunity to design your own coat of arms, applying the principles and practices of heraldry to create a personal emblem that reflects your values, history, and aspirations.
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+[image: Workshop on designing a personal coat of arms]
 
-### Features
+Whether you're a history enthusiast, a lover of art and design, or simply curious about the meanings behind the crests and shields that adorn ancient castles and family heirlooms, this course offers a comprehensive and accessible introduction to the world of heraldry. Join us on this journey, and unlock the secrets of a tradition that continues to fascinate and inspire.
 
-Explore more of ChatApp by reading about our features:
+[link: Enroll in the Heraldry Course Today]
 
-#### Media
+Welcome aboard, and let the adventure begin!
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
